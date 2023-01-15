@@ -44,7 +44,13 @@ body {
 
 
 
+/* button */
+.special-drop{
+  background:none !important;
+  border: none;
+  font-size: 1.2rem;
 
+}
 /* general classes  */
 .orange-color {
   color: rgb(204, 102, 0);
@@ -102,7 +108,7 @@ body {
 /* nav hover  */
 .hover-border {
   /* height: 30px !important; */
-  height: 90% !important;
+  /* height: 90% !important; */
 }
 
 .hover-border:hover {
@@ -226,7 +232,7 @@ body {
 .header .container .up .container .left-nav .logo {
   padding: 1vw;
   width: 113px;
-  height: 50px;
+  height: 60px;
 }
 
 .header .container .up .container .search-bar {
